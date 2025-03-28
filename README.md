@@ -1,7 +1,7 @@
 ## Card Social Links
-Projeto criado como resolução de um desafio do site de mentorias para desenvolvimento Fron-End.
-Aonde aplico os conceitos básicos de criação de página e estilização.
+Project created as a solution to a challenge from the mentoring website for Front-End development.
+Where I apply the basic concepts of page creation and styling.
 
-## Ferramentas de Estilização utilizadas
+## Styling Tools used
 - HTML5
 - CSS3
