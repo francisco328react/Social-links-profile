@@ -4,6 +4,6 @@ Where I apply the basic concepts of page creation and styling.
 
 ![Design preview for the Product preview card component coding challenge](./assets/design/destkop-design.jpg)
 
-## Styling Tools used
+## Styling Tools Used
 - HTML5
 - CSS3
